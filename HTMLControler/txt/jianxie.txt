@@ -1,0 +1,23 @@
+univ.	university
+Coll.	College
+fed.	federal
+nat.	National
+Technol.	Technology
+Inst.	Institution
+Res.	Research
+Sci.	Science
+coll.	College
+tech.	Technology
+Eng.	Engineer
+Nat.	National
+technol.	Technology
+sci.	Science
+inf.	Information
+chem.	chemical
+telecommun.	telecommunications
+und	&
+and	&
+telecommunications (bupt)	telecommunications
+Science (BITS)	Science
+Institution	Institute
+Engineering (CASE)	Engineering
